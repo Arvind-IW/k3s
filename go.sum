@@ -363,6 +363,8 @@ git.sr.ht/~sbinet/gg v0.6.0/go.mod h1:uucygbfC9wVPQIfrmwM2et0imr8L7KQWywX0xpFMm9
 git.wow.st/gmp/jni v0.0.0-20210610011705-34026c7e22d0/go.mod h1:+axXBRUTIDlCeE73IKeD/os7LoEnTKdkp8/gQOFjqyo=
 github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6 h1:He8afgbRMd7mFxO99hRNu+6tazq8nFF9lIwo9JFroBk=
 github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6/go.mod h1:8o94RPi1/7XTJvwPpRSzSUedZrtlirdB3r9Z20bi2f8=
+github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-5 h1:VSQAFDVk8QUKVzrw68AYfEm+iNL0QU0edjC4QHPfDyQ=
+github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-5/go.mod h1:RaxDc+SBKB33+fjao+LeDue4CaUajk02eCHXVK/V4YE=
 github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c h1:udKWzYgxTojEKWjV8V+WSxDXJ4NFATAsZjh8iIbsQIg=
 github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
@@ -1169,8 +1171,6 @@ github.com/k3s-io/kine v0.17.1 h1:Ng30ST8clH0kLwO6VJ4/c0ldlCqFAinMI8qHn+Th4wA=
 github.com/k3s-io/kine v0.17.1/go.mod h1:rXAfWtpSQ9+wkKNqwYdfWmswQ2UuXis6rpqKe01pZbE=
 github.com/k3s-io/klog/v2 v2.140.0-k3s1 h1:Z6S9oqaxcKtLaTcQNgWsaZNE5a+qJmCrTI+Lahor4X8=
 github.com/k3s-io/klog/v2 v2.140.0-k3s1/go.mod h1:o+/RWfJ6PwpnFn7OyAG3QnO47BFsymfEfrz6XyYSSp0=
-github.com/k3s-io/kube-router/v2 v2.6.3-k3s1 h1:RZjUBIuitXCuYoCzm1aM6p5EgQFC5k3N72j4pBIc2j4=
-github.com/k3s-io/kube-router/v2 v2.6.3-k3s1/go.mod h1:RaxDc+SBKB33+fjao+LeDue4CaUajk02eCHXVK/V4YE=
 github.com/k3s-io/kubernetes v1.37.0-k3s1 h1:vRPQgTwozdXJrO0kSKxh5xY3f8a45rRpm3YXWUuoTAY=
 github.com/k3s-io/kubernetes v1.37.0-k3s1/go.mod h1:zAK7e3i5feyBL/bhucQnA5VRKuyrS8F+ijHJkZzQaWw=
 github.com/k3s-io/kubernetes/staging/src/k8s.io/api v1.37.0-k3s1 h1:Eg3HkeHyJIDOFGhZaSoC9HJOJf84iZlKlTwE0FoyfRw=
