@@ -362,8 +362,8 @@ git.sr.ht/~sbinet/gg v0.6.0/go.mod h1:uucygbfC9wVPQIfrmwM2et0imr8L7KQWywX0xpFMm9
 git.wow.st/gmp/jni v0.0.0-20210610011705-34026c7e22d0/go.mod h1:+axXBRUTIDlCeE73IKeD/os7LoEnTKdkp8/gQOFjqyo=
 github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6 h1:He8afgbRMd7mFxO99hRNu+6tazq8nFF9lIwo9JFroBk=
 github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6/go.mod h1:8o94RPi1/7XTJvwPpRSzSUedZrtlirdB3r9Z20bi2f8=
-github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-6 h1:zascF7GlTNG/1J1w4jLZ+CKkq8Zensw9JmyjHN26zoU=
-github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-6/go.mod h1:RaxDc+SBKB33+fjao+LeDue4CaUajk02eCHXVK/V4YE=
+github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-7 h1:PGHsDwbNsPresRAxtQ0wc0XssO2BvYFBvB8vF79ZDNk=
+github.com/Arvind-IW/kube-router/v2 v2.6.3-k3s1-gehc-noflush-7/go.mod h1:RaxDc+SBKB33+fjao+LeDue4CaUajk02eCHXVK/V4YE=
 github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c h1:udKWzYgxTojEKWjV8V+WSxDXJ4NFATAsZjh8iIbsQIg=
 github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
